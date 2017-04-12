@@ -6,7 +6,7 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#efefef"
+    android:background="@color/backgroundColor"
     tools:context="com.example.android.ordinumsolutions.MainActivity">
 
     <ImageView
@@ -26,8 +26,6 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:padding="@dimen/activity_small_vertical_margin"
-            android:textColor="@android:color/black"
-            android:textSize="16sp"
             android:text="@string/description" />
 
         <RelativeLayout
@@ -54,8 +52,6 @@
                 android:layout_centerVertical="true"
                 android:layout_toRightOf="@id/location_image_view"
                 android:paddingLeft="@dimen/activity_small_horizontal_margin"
-                android:textColor="@android:color/black"
-                android:textSize="16sp"
                 android:text="@string/address" />
         </RelativeLayout>
 
@@ -83,8 +79,6 @@
                 android:layout_centerVertical="true"
                 android:layout_toRightOf="@id/website_image_view"
                 android:paddingLeft="@dimen/activity_small_horizontal_margin"
-                android:textColor="@android:color/black"
-                android:textSize="16sp"
                 android:text="@string/website" />
         </RelativeLayout>
 
@@ -113,8 +107,6 @@
                 android:layout_centerVertical="true"
                 android:layout_toRightOf="@id/mail_image_view"
                 android:paddingLeft="@dimen/activity_small_horizontal_margin"
-                android:textColor="@android:color/black"
-                android:textSize="16sp"
                 android:text="@string/e_mail_address" />
         </RelativeLayout>
 
