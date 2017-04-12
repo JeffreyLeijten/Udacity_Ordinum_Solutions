@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Ordinum Solutions</string>
+
+    <string name="description">Ordinum Solutions is a fulfilment company which handles logistics for webshops, and is now creating software solutions for logistical processes.</string>
+    <string name="e_mail_address">info@ordinum.nl</string>
+    <string name="address">Deken van Somerenstraat 9C, Eindhoven, Netherlands</string>
+    <string name="website">ordinum.nl</string>
+
 </resources>
