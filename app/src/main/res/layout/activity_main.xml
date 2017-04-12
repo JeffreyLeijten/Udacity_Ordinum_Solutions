@@ -33,8 +33,7 @@
 
             <RelativeLayout
                 android:layout_width="match_parent"
-                android:layout_height="0dp"
-                android:layout_weight="1"
+                android:layout_height="wrap_content"
                 android:paddingBottom="@dimen/activity_small_vertical_margin"
                 android:paddingLeft="@dimen/activity_horizontal_margin"
                 android:paddingRight="@dimen/activity_horizontal_margin"
@@ -61,8 +60,7 @@
 
             <RelativeLayout
                 android:layout_width="match_parent"
-                android:layout_height="0dp"
-                android:layout_weight="1"
+                android:layout_height="wrap_content"
                 android:paddingBottom="@dimen/activity_small_vertical_margin"
                 android:paddingLeft="@dimen/activity_horizontal_margin"
                 android:paddingRight="@dimen/activity_horizontal_margin"
@@ -89,8 +87,7 @@
 
             <RelativeLayout
                 android:layout_width="match_parent"
-                android:layout_height="0dp"
-                android:layout_weight="1"
+                android:layout_height="wrap_content"
                 android:orientation="horizontal"
                 android:paddingBottom="@dimen/activity_small_vertical_margin"
                 android:paddingLeft="@dimen/activity_horizontal_margin"
